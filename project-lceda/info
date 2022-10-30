@@ -1,0 +1,300 @@
+{
+  "uuid": "ba425e4998c34a813837a12e523ac8fa",
+  "path": "Offline/%E5%90%84%E7%A7%8D%E9%AA%8C%E8%AF%81%E6%9D%BF",
+  "name": "各种验证板",
+  "content": "",
+  "created_at": "2022-09-18 11:48:11",
+  "updated_at": "2022-09-18 14:14:17",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "56b4837dc32298a2d4f858aa40c712c9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bfccad36449e45d693addc79dff67985": 2,
+        "6f4f9c0e1e234296afbc9c06025f2007": 24,
+        "c443bca853f54ca8a6ab53dbd067b0bb": 5,
+        "e09d7600cbd148829c8d7559fabfb727": 4,
+        "597701dbde98d3183fe5df5fb870ec57": 20,
+        "5e3c67c0b653448d8623a5666d38a03e": 4,
+        "ccda1e9ec5464a568ccd20060413e4d3": 2,
+        "de3110fdea464bfeafb3cbf614bfc4cb": 2,
+        "8d577bf860fa4a2d97f3554fd887da63": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "直接",
+          4,
+          "HDR-TH_4P-P2.54-V-M",
+          "1117/DIRE1/SOT89,1117/DIRE1/SOT223,1117/WITH/SOT89,1117/WITH/SOT223",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C492403",
+            "BOM_Manufacturer": "XFCN",
+            "BOM_Manufacturer Part": "PZ254V-11-04P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89f5280378144b629de4998ef974b6b8",
+            "uuid": "6f4f9c0e1e234296afbc9c06025f2007"
+          }
+        ],
+        [
+          "CJA1117B-ADJ",
+          2,
+          "SOT-89_L4.5-W2.5-P1.50-LS4.2-BR",
+          "1117/SOT1/WITH,1117/SOT89/DIRE",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "CJ",
+            "BOM_Manufacturer Part": "CJA1117B-ADJ",
+            "BOM_Supplier Part": "C107222",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b53b811b9fcb4eab8010951b47fd4339",
+            "uuid": "de3110fdea464bfeafb3cbf614bfc4cb"
+          }
+        ],
+        [
+          "AMS1117-1.8_C963404",
+          2,
+          "SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR",
+          "1117/SOT223/DIRE,1117/SOT223/WITH",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C963404",
+            "BOM_Manufacturer": "JSMSEMI(杰盛微)",
+            "BOM_Manufacturer Part": "AMS1117-1.8",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "7be7a7ff8a71460fbef36967557ecd96",
+            "uuid": "ccda1e9ec5464a568ccd20060413e4d3"
+          }
+        ],
+        [
+          "1.5nF",
+          5,
+          "C0603",
+          "C1,C2,C3,C4,C5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Manufacturer Part": "CL10B152KB8NNNC",
+            "BOM_Supplier Part": "C37788",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "c443bca853f54ca8a6ab53dbd067b0bb"
+          }
+        ],
+        [
+          "直接连接转换",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "CH340/EMP",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2977777",
+            "BOM_Manufacturer": "WCH(南京沁恒)",
+            "BOM_Manufacturer Part": "CH340N",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1fe0adc377c7472ba321d68db1c050fa",
+            "uuid": "bfccad36449e45d693addc79dff67985"
+          }
+        ],
+        [
+          "有滤波",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "CH340/WITH",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2977777",
+            "BOM_Manufacturer": "WCH(南京沁恒)",
+            "BOM_Manufacturer Part": "CH340N",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1fe0adc377c7472ba321d68db1c050fa",
+            "uuid": "bfccad36449e45d693addc79dff67985"
+          }
+        ],
+        [
+          "WITH",
+          4,
+          "HDR-TH_4P-P2.54-V-M",
+          "CONN/LED,CONN/LED1,CONN/LED2,CONN/LED3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C492403",
+            "BOM_Manufacturer": "XFCN",
+            "BOM_Manufacturer Part": "PZ254V-11-04P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89f5280378144b629de4998ef974b6b8",
+            "uuid": "6f4f9c0e1e234296afbc9c06025f2007"
+          }
+        ],
+        [
+          "YUAN",
+          4,
+          "HDR-TH_4P-P2.54-V-M",
+          "DIRE/SOP8,DIRE/SOP8/2,DIRE/SOP8/E,DIRE/SOP8/E/2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C492403",
+            "BOM_Manufacturer": "XFCN",
+            "BOM_Manufacturer Part": "PZ254V-11-04P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89f5280378144b629de4998ef974b6b8",
+            "uuid": "6f4f9c0e1e234296afbc9c06025f2007"
+          }
+        ],
+        [
+          "PZ254V-11-04P",
+          4,
+          "HDR-TH_4P-P2.54-V-M",
+          "H1,H2,H3,H4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C492403",
+            "BOM_Manufacturer": "XFCN",
+            "BOM_Manufacturer Part": "PZ254V-11-04P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89f5280378144b629de4998ef974b6b8",
+            "uuid": "6f4f9c0e1e234296afbc9c06025f2007"
+          }
+        ],
+        [
+          "无电阻",
+          4,
+          "HDR-TH_4P-P2.54-V-M",
+          "NPN/NR,NPN/NR1,PNP/NR1,PNP/NR2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C492403",
+            "BOM_Manufacturer": "XFCN",
+            "BOM_Manufacturer Part": "PZ254V-11-04P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89f5280378144b629de4998ef974b6b8",
+            "uuid": "6f4f9c0e1e234296afbc9c06025f2007"
+          }
+        ],
+        [
+          "有电阻",
+          4,
+          "HDR-TH_4P-P2.54-V-M",
+          "NPN/R,NPN/R1,PNP/R1,PNP/R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C492403",
+            "BOM_Manufacturer": "XFCN",
+            "BOM_Manufacturer Part": "PZ254V-11-04P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89f5280378144b629de4998ef974b6b8",
+            "uuid": "6f4f9c0e1e234296afbc9c06025f2007"
+          }
+        ],
+        [
+          "S9013_C2926161",
+          4,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q1,Q4,Q5,Q8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2926161",
+            "BOM_Manufacturer": "FOSAN(富信)",
+            "BOM_Manufacturer Part": "S9013",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "bade90667a6e4731855e9a223387b8a6",
+            "uuid": "e09d7600cbd148829c8d7559fabfb727"
+          }
+        ],
+        [
+          "S9012_C2886438",
+          4,
+          "SOT-23-3_L2.9-W1.4-P1.91-LS2.6-BR",
+          "Q2,Q3,Q6,Q7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2886438",
+            "BOM_Manufacturer": "Hottech(合科泰)",
+            "BOM_Manufacturer Part": "S9012",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "76da4b9b79304a6280106dc4b6e6ca12",
+            "uuid": "5e3c67c0b653448d8623a5666d38a03e"
+          }
+        ],
+        [
+          "1kΩ",
+          20,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UniOhm",
+            "BOM_Manufacturer Part": "0603WAF1001T5E",
+            "BOM_Supplier Part": "C21190",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "597701dbde98d3183fe5df5fb870ec57"
+          }
+        ],
+        [
+          "原ne555",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "SOP-8/DIRE,SOP-8/DIRE/2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C5125085",
+            "BOM_Manufacturer": "IDCHIP(英锐芯)",
+            "BOM_Manufacturer Part": "NE555",
+            "puuid": "806a55eb4d3c40ab838f70f86785d85e",
+            "uuid": "8d577bf860fa4a2d97f3554fd887da63"
+          }
+        ]
+      ],
+      "updateTime": 1663477957,
+      "createTime": 1663472892,
+      "histories": [],
+      "created_at": "2022-09-18 11:48:12",
+      "updated_at": "2022-09-18 13:12:37"
+    },
+    {
+      "uuid": "5b815cb87475397bcd404a4ba4adee22",
+      "puuid": "ba425e4998c34a813837a12e523ac8fa",
+      "title": "PCB_各种验证板",
+      "filename": "PCB_各种验证板.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "89f5280378144b629de4998ef974b6b8": 24,
+        "b53b811b9fcb4eab8010951b47fd4339": 2,
+        "7be7a7ff8a71460fbef36967557ecd96": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 5,
+        "1fe0adc377c7472ba321d68db1c050fa": 2,
+        "bade90667a6e4731855e9a223387b8a6": 4,
+        "76da4b9b79304a6280106dc4b6e6ca12": 4,
+        "398691f1f785460098bbe5ee6590333c": 20,
+        "806a55eb4d3c40ab838f70f86785d85e": 2
+      },
+      "BOM": [],
+      "updateTime": 1663481657,
+      "createTime": 1663481595,
+      "histories": [],
+      "created_at": "2022-09-18 14:13:15",
+      "updated_at": "2022-09-18 14:14:17"
+    }
+  ],
+  "sort": [],
+  "title": "各种验证板",
+  "foldername": "各种验证板",
+  "schfilename": "各种验证板.json",
+  "schfilemtime": 1663477957190
+}
